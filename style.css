@@ -1,0 +1,14 @@
+body{
+    transition: background-color 2s, color 2s;
+}
+
+.darkmode{
+    background-color: black;
+    color: white;
+}
+.titulo{
+    text-align: center;
+}
+article{
+    text-align: center;
+}
